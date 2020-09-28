@@ -1,0 +1,7 @@
+CA,T0A,Eastern Alberta (St. Paul),Alberta,AB,,,,,54.766,-111.7174,6
+CA,T0B,Wainwright Region (Tofield),Alberta,AB,,,,,53.0727,-111.5816,6
+CA,T1W,Canmore,Alberta,AB,,,,,51.0876,-115.3461,4
+CA,T1X,Chestermere,Alberta,AB,,,,,51.0334,-113.8187,4
+CA,T1Y,Calgary (Rundle / Whitehorn / Monterey Park),Alberta,AB,Calgary,,,,51.0823,-113.9578,1
+CA,T1Z,Rocky View,Alberta,AB,,,,,51.1834,-113.9353,4
+CA,T2B,Calgary (Forest Lawn / Dover / Erin Woods),Alberta,AB,Calgary,,,,51.0209,-113.981,6
