@@ -1,6 +1,6 @@
 <?php
 
-$file = fopen("splite_names.txt", "r");
+$file = fopen("test.txt", "r");
 
 $file_with_fl = fopen("fileWithFL.txt", "w+");
 $file_without_fl = fopen("fileWithoutFL.txt", "w+");
